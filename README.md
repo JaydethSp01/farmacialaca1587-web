@@ -1,2 +1,3 @@
-# farmacialaca1587-web
-ScrumDev AI frontend (farmacialaca1587-web)
+# FARMACIALACA1587 - Frontend
+
+Next.js desplegado en Vercel.
